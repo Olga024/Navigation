@@ -1,4 +1,4 @@
-export const HomePage = () => {
+export const HomePage: React.FC = () => {
     return (
         <article className="article">
             <h1 className="article__title">Гоночн​ое такси</h1>

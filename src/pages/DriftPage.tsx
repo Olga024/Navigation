@@ -1,4 +1,4 @@
-export const DriftPage = () => {
+export const DriftPage: React.FC = () => {
     return (
         <article className="article">
             <h1 className="article__title">Дрифт-такси</h1>

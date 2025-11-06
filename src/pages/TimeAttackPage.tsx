@@ -1,4 +1,4 @@
-export const TimeAttackPage = () => {
+export const TimeAttackPage: React.FC = () => {
     return (
         <article className="article">
             <h1 className="article__title">Гонка ​​​​​​Time Attack</h1>
